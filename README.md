@@ -43,7 +43,6 @@ F1 Score: 98%
 ## 📂 Project Structure
 
 
-
 ├── SMS Spam Classification.ipynb 
 ├── SMSSpamCollection.txt   
 ├── app.py                  
@@ -62,11 +61,15 @@ F1 Score: 98%
 ```bash
 git clone https://github.com/Master-45-vic/SMS-Spam-Detection-.git
 cd SMS-Spam-Detection
+```
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-3️⃣ Download Google Word2Vec model
+### 3️⃣ Download Google Word2Vec model
 
 Download the pretrained GoogleNews Word2Vec model separately
 and place it in the project root folder:
@@ -75,15 +78,17 @@ GoogleNews-vectors-negative300.bin
 
 (Note: File is ~1.5GB and not included in repository)
 
-4️⃣ Run the application
+### 4️⃣ Run the application
 
+```bash
 streamlit run app.py
+```
 
-📊 Dataset
+## 📊 Dataset
 
 SMS Spam Collection Dataset from Kaggle.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Prashanth M
 
