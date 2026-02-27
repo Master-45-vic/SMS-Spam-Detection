@@ -43,18 +43,15 @@ F1 Score: 98%
 ## 📂 Project Structure
 
 
-spam-detection-google-w2v/
-│
-├── app.py
-├── preprocessing.py
-├── embeddings.py
-├── model.py
-├── requirements.txt
-├── README.md
-│
-└── models/
-└── google_w2v_model.pkl
 
+├── SMS Spam Classification.ipynb 
+├── SMSSpamCollection.txt   
+├── app.py                  
+├── embeddings.py            
+├── google_w2v_model.pkl     
+├── model.py                 
+├── preprocessing.py         
+└── requirements.txt         
 
 ---
 
@@ -64,7 +61,7 @@ spam-detection-google-w2v/
 
 ```bash
 git clone https://github.com/Master-45-vic/SMS-Spam-Detection-.git
-cd spam-detection-google-w2v
+cd SMS-Spam-Detection
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
