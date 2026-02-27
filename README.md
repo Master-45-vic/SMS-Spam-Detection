@@ -63,7 +63,7 @@ spam-detection-google-w2v/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/spam-detection-google-w2v.git
+git clone https://github.com/Master-45-vic/SMS-Spam-Detection-.git
 cd spam-detection-google-w2v
 
 2️⃣ Install dependencies
